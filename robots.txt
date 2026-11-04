@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /sfx/
+
+Sitemap: https://heyrush.vercel.app/sitemap.xml
